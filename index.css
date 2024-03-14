@@ -134,7 +134,7 @@
   .join-waitlist-for {
     position: absolute;
     top: 100px;
-    left: 110px;
+    left: 80px;
     line-height: 32px;
     font-size: 30px;
     font-weight: 300;
@@ -170,7 +170,7 @@
     position: absolute;
     height: 7.03%;
     width: 18.47%;
-    top: 14%;
+    top: 15%;
     right: 41.1%;
     bottom: 75.1%;
     left: 30%;
@@ -178,7 +178,7 @@
   .events-community-academics {
     position: absolute;
     top: 250px;
-    left: 115px;
+    left: 80px;
     font-size: 30px;
     line-height: 32px;
     background: linear-gradient(91.77deg, #fff, #d9ff6b);
@@ -215,14 +215,14 @@
   #waiter{
     position: absolute;
     top: 30%;
-    right: 20%;
+    right: 10%;
     bottom: 75.1%;
-    left: 13%; 
+    left: 10%; 
     line-height: 1;
   }
   #getWaitlistContainer input,
   #getWaitlistContainer button {
-    width: 350px; /* Adjust the width as needed */
+    width: 250px; /* Adjust the width as needed */
     height: 40px; /* Adjust the height as needed */
   }
 }
